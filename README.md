@@ -17,7 +17,7 @@ The script can be run without dependencies besides the Python standard library,
 simply by running
 
 ```bash
-python update_number.py
+py update_number.py
 ```
 
 You might want to run the script manually for the first time to verify it works
@@ -55,5 +55,3 @@ This will initially run the script at 6am the next day.
 The script will increment the number in `number.txt` and commit the change to git. You can modify the script to increment by any value or use a different file to store the number.
 
 By running this you will be able get a fancy streak on your github profile and get a job.
-
-![How to get a job](get_a_job.jpg)
